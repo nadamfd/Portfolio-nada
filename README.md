@@ -3,7 +3,7 @@ This repository showcases my skills and experience as a data analyst through a p
 
 # This project involves:
 - **Data Wrangling**: Using Python, I gathered and cleaned the data, wrangled large datasets, and normalized data structures.
-- **Data Analysis and Exploration**: I used SQL and excel/spreadsheet to analyze data. I employed visualization tools like [Power BI/Tableau] and statistical techniques like regression and correlation to uncover key insights and trends within the data.
+- **Data Analysis and Exploration**: I used SQL and excel/spreadsheet to analyze data. I employed visualization tools like [Power BI/Tableau/Looker Studio] and statistical techniques like regression and correlation to uncover key insights and trends within the data.
 - **Storytelling and Communication**: I translated my findings into actionable business recommendations by creating [reports/dashboards/presentations] for stakeholders.
 
 # Key Skills and Technologies:
